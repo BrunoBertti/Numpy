@@ -16,4 +16,4 @@
 
         # Entender como aplicar algumas operações de álgebra linear a arrays n-dimensionais sem usar loops for;
 
-        # Compreender as propriedades de eixo e forma para matrizes n-dimensionais. 
+        # Compreender as propriedades de eixo e forma para matrizes n-dimensionais..
