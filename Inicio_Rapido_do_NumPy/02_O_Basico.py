@@ -356,5 +356,4 @@ for row in b:
 
 for element in b.flat:
     print(element)
-
     
